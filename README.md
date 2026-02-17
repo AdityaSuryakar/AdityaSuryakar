@@ -1,8 +1,8 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:4B0082&height=200&section=header&text=Aditya%20Suryakar&fontSize=40&fontColor=ffffff" />
 
-<h1 align="center">Hi 👋, I'm Aditya Suryakar</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Problem Solver | AI & Backend Enthusiast</h3>
+<!-- <h1 align="center">Hi 👋, I'm Aditya Suryakar</h1> -->
+<h3 align="center">Aspiring Software Developer | Problem Solver | AI & Backend Enthusiast</h3>
 
 <img align="right" alt="Coding" width="320" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
 
