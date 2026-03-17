@@ -26,17 +26,7 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-#### 🌐 Web & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-#### 🗄️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
 </p>
 
 #### ⚙️ Tools & Platforms
