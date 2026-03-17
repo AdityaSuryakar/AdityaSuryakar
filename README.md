@@ -21,19 +21,23 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-suryakar-5b157a2a2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
+  
   <a href="https://kaggle.com/adityasuryakar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40"/>
+    <img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle"/>
   </a>
+
   <a href="https://www.codechef.com/users/suryakar_2005" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="40" alt="CodeChef"/>
   </a>
+
   <a href="https://www.hackerrank.com/adityasuryakar21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank"/>
   </a>
-  <a href="https://www.leetcode.com/aditya_suryakar10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+
+  <a href="https://leetcode.com/aditya_suryakar10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
   </a>
 </p>
 
