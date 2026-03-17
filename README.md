@@ -18,30 +18,8 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-suryakar-5b157a2a2/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" height="40" width="40"/>
-  </a>
-
-  <a href="https://kaggle.com/adityasuryakar" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle" height="40" width="40"/>
-  </a>
-
-  <a href="https://www.codechef.com/users/suryakar_2005" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef" height="40" width="40"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/adityasuryakar21" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank" height="40" width="40"/>
-  </a>
-
-  <a href="https://leetcode.com/aditya_suryakar10" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" height="40" width="40"/>
-  </a>
-</p>
-
+### 🌐 Connect with Me 
+<p align="left"> <a href="https://www.linkedin.com/in/aditya-suryakar-5b157a2a2/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="https://kaggle.com/adityasuryakar" target="_blank"> <img src="https://skillicons.dev/icons?i=kaggle" height="40"/> </a> <a href="https://www.codechef.com/users/suryakar_2005" target="_blank"> <img src="https://skillicons.dev/icons?i=codechef" height="40"/> </a> <a href="https://www.hackerrank.com/adityasuryakar21" target="_blank"> <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/> </a> <a href="https://www.leetcode.com/aditya_suryakar10" target="_blank"> <img src="https://skillicons.dev/icons?i=leetcode" height="40"/> </a> </p>
 ---
 
 ### 🛠️ Tech Stack
