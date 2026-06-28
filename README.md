@@ -9,10 +9,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔥 Actively solving DSA problems on LeetCode
+- 🔥 Actively solving DSA problems on LeetCode & GFG
 - 💻 Building Java + JDBC based backend projects
 - 🤖 Exploring AI, NLP & Generative AI
-- 🐳 Learning DevOps (Docker & Kubernetes)
 - 📊 Python for Data Analytics enthusiast
 - 📫 Reach me at: **suryakaraditya@gmail.com**
 
